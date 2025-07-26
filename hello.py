@@ -1,0 +1,1 @@
+print("Git is a bit tricky to learn at first, but it's very powerful.")
